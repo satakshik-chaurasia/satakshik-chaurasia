@@ -1,6 +1,8 @@
 # 💫 About Me:
-B.Tech CSE @ CV Raman Global University | Aspiring Software Engineer Backend Development | Java | Spring Boot | DSA 
-
+🎓 B.Tech CSE (3rd Year) @ CV Raman Global University
+💻 Aspiring Software Engineer with interest in Java and Data Structures & Algorithms
+📚 Currently strengthening problem-solving skills and exploring core CS concepts
+🚀 Actively preparing for software engineering placements
 
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satakshik338@gmail.com) 
